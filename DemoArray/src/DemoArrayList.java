@@ -1,0 +1,20 @@
+import java.util.ArrayList;
+
+public class DemoArrayList {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		ArrayList list=new ArrayList();
+	list.add(10);
+	list.add(new Integer(234));
+	list.add(90);
+	list.add(67);
+	list.add(10);
+	System.out.println("no of elements:"+list.size());
+	System.out.println(list);
+
+	list.add(2,2000);
+	System.out.println("after addition"+list);
+	}
+
+}

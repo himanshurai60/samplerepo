@@ -1,0 +1,12 @@
+package com.one;
+
+protected class MyClass {
+	 void display()
+	{
+		System.out.println("Displaying MyClass");
+	}
+	
+public void useDisplay() {
+	display();
+}
+}

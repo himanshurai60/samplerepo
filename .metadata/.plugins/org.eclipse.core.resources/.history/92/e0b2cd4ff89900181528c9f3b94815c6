@@ -1,0 +1,12 @@
+
+public class DemoString {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+String name="citi";
+System.out.println("initial value for name:"+name);
+name=name.concat(",Pune");
+System.out.println("value for name after concatation:"+name);
+	}
+
+}

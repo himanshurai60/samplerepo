@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<a href="name.jsp">COUT DEMO</a>
+<a href="choose.jsp">choose demo</a>
+<a href="forEach.jsp">Loop demo</a>
+<a herf="show.jsp">employee</a>
+</body>
+</html>

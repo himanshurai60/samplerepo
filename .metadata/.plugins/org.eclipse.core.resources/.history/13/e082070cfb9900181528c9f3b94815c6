@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+public class DemoString {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String name="citi";
+		String name1="citi";
+		if(name1.equals(name))
+			System.out.println("equals");
+		else
+			System.out.println("not equals");
+	}
+
+}

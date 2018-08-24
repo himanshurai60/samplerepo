@@ -1,0 +1,12 @@
+import com.connections.MyConnection;
+
+public class EmployeeDAOO {
+	
+	public List<Employee> findAllEmployees()
+	{
+		onnection con =MyConnection.getMyConnection();
+		List<Employee> employess=new ArrayList<>(;)
+				String SELECT_ALL
+	}
+
+}

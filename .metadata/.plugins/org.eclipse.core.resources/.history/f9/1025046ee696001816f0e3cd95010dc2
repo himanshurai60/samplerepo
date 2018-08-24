@@ -1,0 +1,10 @@
+
+public class DemoCommandLine {
+
+	public static void main(int a[]) {
+		// TODO Auto-generated method stub
+for(int x:a)
+	System.out.println(x);
+	}
+
+}

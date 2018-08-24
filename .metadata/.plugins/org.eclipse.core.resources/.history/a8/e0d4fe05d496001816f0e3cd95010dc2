@@ -1,0 +1,15 @@
+
+public class Demo1D {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+int[] numbers;
+numbers=new int[3];
+numbers[0]=100;
+numbers[1]=200;
+numbers[2]=100;
+System.out.println("0th element="+numbers[0]);
+System.out.println("1th element="+numbers[1]);
+System.out.println("2th element="+numbers[2]);}
+
+}

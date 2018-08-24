@@ -1,0 +1,27 @@
+
+public class Demo1D {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+int[] numbers;
+int[] numbers1;
+int[] sum;
+numbers=new int[3];
+numbers1=new int[5];
+sum=new int[5];
+numbers[0]=100;
+numbers[1]=200;
+numbers[2]=100;
+numbers1[0]=1;
+numbers1[1]=2;
+numbers1[2]=3;
+numbers1[3]=4;
+numbers1[4]=5;
+sum[0]=numbers[0]+numbers1[0];
+sum[1]=numbers[1]+numbers[1];
+sum[2]=numbers[2]+numbers[2];
+System.out.println("0th element="+sum[0]);
+System.out.println("1th element="+sum[1]);
+System.out.println("2th element="+sum[3]);}
+
+}

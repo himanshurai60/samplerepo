@@ -1,0 +1,6 @@
+package com.dao;
+
+public class Snippet {
+	insert into login values(rai,456)
+}
+

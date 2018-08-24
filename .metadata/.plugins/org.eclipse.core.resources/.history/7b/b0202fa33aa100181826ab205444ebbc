@@ -1,0 +1,11 @@
+
+public class LoginDAO {
+
+	
+	public boolean checkLogin(String username, String password)
+	{
+		boolean success=false;
+		
+		return success;
+	}
+}

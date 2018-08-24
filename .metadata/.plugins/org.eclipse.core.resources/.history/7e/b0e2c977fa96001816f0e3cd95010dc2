@@ -1,0 +1,22 @@
+
+public class exer {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+int[] ar= {12,34,44,54,34,55,65,78,90,23,90};
+int i=0;
+while(i<ar.length)
+{
+	System.out.print(ar[i]+"\t");
+	i++;
+}
+i=0;
+System.out.println();
+do
+{
+	System.out.print(ar[i]+"\t");
+i++;
+}while(i<ar.length);
+	}
+
+}
